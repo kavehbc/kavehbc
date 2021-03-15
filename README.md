@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kavehbc, a Data Scientist
-- 👀 I’m interested in Artificial Intelligence, Economics, Revenue Management, Optimization, Psychology
+- 👀 I’m interested in Artificial Intelligence, Economics, Revenue Management, Optimization, Affective Computing and Psychology
 - 🌱 I’m currently learning Everything, because Everythong is worth learning
 - 📫 You can reach me via [bakhtiyari.com](http://bakhtiyari.com) or [kaveh.me](http://kaveh.me)
