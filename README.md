@@ -11,7 +11,7 @@
 
 I build intelligent systems where **research, engineering, and human behavior** meet — from production ML pipelines to emotion-aware interfaces. My compass is simple: *choose methods thoughtfully, challenge assumptions, and measure what truly works.*
 
-- 🧠 **Lead AI/ML Engineer** at [Kinship Partners](https://kinship.com/)
+- 🧠 **Lead AI/ML Engineer**
 - 🎓 **AI & CS Lecturer** at [LaSalle College Montreal](https://collegelasalle.com/) since 2019
 - 🔬 **Researcher** — Studied Dr.-Ing. (Duisburg-Essen) & Ph.D. (UKM), 30+ publications, reviewer for 25+ journals
 - 💬 Ask me about **LLMs, recommender systems, reinforcement learning, and affective computing**
@@ -22,10 +22,10 @@ I build intelligent systems where **research, engineering, and human behavior** 
 
 ### 🔬 Research
 
-My work sits at the crossroads of **Artificial Intelligence, Human-Computer Interaction, and Game Theory**.
+My work sits at the crossroads of **Artificial Intelligence, Human-Computer Interaction, Psychology, Neuroscience, and Game Theory**.
 
-🎭 Affective computing & emotion recognition &nbsp;·&nbsp; 🎯 Recommender systems &nbsp;·&nbsp; ♟️ Reinforcement learning & game theory<br/>
-⛓️ Blockchain & smart contracts &nbsp;·&nbsp; 🛡️ Intrusion detection &nbsp;·&nbsp; 📡 Contactless biometric monitoring
+🎭 Affective computing & emotion recognition &nbsp;·&nbsp; 🎯 Recommender systems &nbsp;·&nbsp; 🕹️ Reinforcement learning &nbsp;·&nbsp; ♟️ Game theory<br/>
+🧠 Psychology &nbsp;·&nbsp; 🧬 Neuroscience &nbsp;·&nbsp; ⛓️ Blockchain & smart contracts &nbsp;·&nbsp; 🛡️ Intrusion detection &nbsp;·&nbsp; 📡 Contactless biometric monitoring
 
 📚 [Publications](https://kaveh.bakhtiyari.com/#publications) &nbsp;·&nbsp; 🧪 [Research projects](https://kaveh.bakhtiyari.com/#research) &nbsp;·&nbsp; 🎤 [Talks](https://kaveh.bakhtiyari.com/#talks)
 
@@ -35,7 +35,16 @@ My work sits at the crossroads of **Artificial Intelligence, Human-Computer Inte
 
 Since 2019 I have taught and supervised students at **LaSalle College Montreal** across 15+ courses — AI, machine learning, neural networks, algorithms, data structures, databases, and software development.
 
-📖 [Course repositories](https://github.com/kavehbc?tab=repositories) &nbsp;·&nbsp; 🧑‍🏫 [Teaching portfolio](https://kaveh.bakhtiyari.com/#teaching)
+📖 **Course repositories:**
+
+- 🧠 [Advanced Data Management & Neural Networks](https://github.com/kavehbc/data-neural-network)
+- 📊 [Machine Learning 2](https://github.com/kavehbc/machine-learning-2)
+- 🤖 [AI in Industry](https://github.com/kavehbc/ai-industry)
+- 🧮 [Algorithms & Data Structures](https://github.com/kavehbc/algorithms-data-structures)
+- 🐍 [Intro to Data Structures in Python](https://github.com/kavehbc/data-structures)
+- ☕ [Advanced Object-Oriented Programming (Java)](https://github.com/kavehbc/java-oop)
+
+🧑‍🏫 [Teaching portfolio](https://kaveh.bakhtiyari.com/#teaching)
 
 ---
 
